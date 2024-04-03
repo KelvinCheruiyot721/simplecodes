@@ -11,11 +11,13 @@ body {
   }
 
 li{
+
     list-style: circle;
 }
 
 .list {
     list-style: square;
+    
 }
 
 .light-theme {
